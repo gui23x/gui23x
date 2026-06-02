@@ -1,14 +1,13 @@
-
 # Gui23x
 **Analista de Dados | Automação Python | UI/UX Designer**
 
 Atualmente focado na otimização de fluxos logísticos através da análise de dados estratégica e automação de processos. Desenvolvo soluções que unem a precisão técnica do Python e Power BI à funcionalidade de interfaces projetadas em Figma e React.
 
-[<img src="https://img.shields.io/badge/Linkedin-000000?style=flat-square&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/guilherme-gomes-da-silva/?locale=en)
-[<img src="https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=react&logoColor=white">](https://www.gui23x.dev.br/)
-[<img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white">](https://github.com/guilherme23x)
----
+[![Linkedin](https://img.shields.io/badge/Linkedin-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-gomes-da-silva/?locale=en)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=react&logoColor=white)](https://www.gui23x.dev.br/)
+[![Github](https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/guilherme23x)
 
+---
 
 ### Tech Stack
 
@@ -28,7 +27,7 @@ Atualmente focado na otimização de fluxos logísticos através da análise de 
 ![](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white)
-![](https://img.shields.io/badge/VSCode-000000?style=flat-square&logo=code&logoColor=white)
+![](https://img.shields.io/badge/VSCode-000000?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -38,6 +37,12 @@ Atualmente focado na otimização de fluxos logísticos através da análise de 
 *   **Python Impressionador** | Hashtag Treinamentos
 *   **UI / UX Design & Figma** | Certificações Profissionais
 
-<img width="880" height="192" alt="github-user-contribution" src="https://github.com/user-attachments/assets/4f2f285d-640e-4c59-847c-9d122892c7a4" />
+---
 
-<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilherme23x/guilherme23x/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilherme23x/guilherme23x/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guilherme23x/guilherme23x/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
