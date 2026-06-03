@@ -39,4 +39,4 @@ Atualmente focado na otimização de fluxos logísticos através da análise de 
 
 ---
 
-<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
+![Snake animation](https://github.com/guilherme23x/guilherme23x/blob/output/github-contribution-grid-snake.svg)
