@@ -39,10 +39,4 @@ Atualmente focado na otimização de fluxos logísticos através da análise de 
 
 ---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilherme23x/guilherme23x/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilherme23x/guilherme23x/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guilherme23x/guilherme23x/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
