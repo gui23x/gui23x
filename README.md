@@ -19,7 +19,6 @@ Atualmente focado na otimização de fluxos logísticos através da análise de 
 
 **Interface & Web**
 ![](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
