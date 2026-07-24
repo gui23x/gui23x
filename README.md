@@ -37,6 +37,8 @@ Atualmente focado na otimização de fluxos logísticos através da análise de 
 *   **UI / UX Design & Figma** | Certificações Profissionais
 
 ---
-
-![Snake Animation](https://raw.githubusercontent.com/gui23x/gui23x/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-![Snake Animation](https://raw.githubusercontent.com/gui23x/gui23x/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui23x/gui23x/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gui23x/gui23x/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/gui23x/gui23x/output/github-contribution-grid-snake.svg">
+</picture>
