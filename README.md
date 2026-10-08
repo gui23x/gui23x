@@ -33,8 +33,8 @@ Atualmente focado na otimização de fluxos logísticos através da análise de 
 ### Educação
 
 *   **Análise e Desenvolvimento de Sistemas** | Centro Universitário Senac
-*   **Python Impressionador** | Hashtag Treinamentos
-*   **UI / UX Design & Figma** | Certificações Profissionais
+*   **Python** | Hashtag Treinamentos
+*   **UI / UX Design** | Andrey Knabbenn
 
 ---
 <picture>
